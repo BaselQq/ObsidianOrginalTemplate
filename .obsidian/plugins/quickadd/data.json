@@ -1,0 +1,63 @@
+{
+  "choices": [
+    {
+      "id": "d581fe14-a54f-4579-918d-430e8673aeb8",
+      "name": "Test",
+      "type": "Macro",
+      "command": false,
+      "macroId": null
+    },
+    {
+      "id": "70401264-fff3-446e-bdb5-540aa4f274fa",
+      "name": "Test",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false
+    },
+    {
+      "id": "27a2eb9e-da48-45a7-ac96-541c260bf9a6",
+      "name": "TGest",
+      "type": "Template",
+      "command": false,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical"
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFile": false
+    }
+  ],
+  "macros": []
+}

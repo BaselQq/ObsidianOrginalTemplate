@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "0f9b5199f748b4fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec334132baf8379d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3714f6dea7515cfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "83a9fba70664c1a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8b64c500c76aa92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9cae07d91567730",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2997875c9ea73c4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "86f5be3e7a6e8c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7c410781aa27c2b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000009,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b25ff39d024809b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3327e6eaa8814032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f568ffaffce661",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ae2d4e6870b0a5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2ea7d07aa8a500e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ec334132baf8379d",
+  "lastOpenFiles": [
+    "templates/yaml.md",
+    "Observer Pattern.md",
+    "Design pattern.md",
+    "templates/Inputs/Zusammenfassung yusammenfassung غعسشةةثىبشسسعىل ئعسشةةثىبشسسعىل.md",
+    "Obserser.md",
+    "Index.md",
+    "SOLID Prinzip.md",
+    "sadkjflfas.md"
+  ]
+}

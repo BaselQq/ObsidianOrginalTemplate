@@ -1,0 +1,8 @@
+{
+  "contextAwareMode": true,
+  "sourceSupport": true,
+  "codeHighlightSupport": true,
+  "contextSeparator": " > ",
+  "deck": "Default",
+  "flashcardsTag": "card"
+}
